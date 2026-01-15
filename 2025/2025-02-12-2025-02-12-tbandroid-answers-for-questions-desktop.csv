@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1711459,1492617,2025-02-11 19:14:20 -0800,2025-02-11 19:14:20 -0800,"<p>Thunderbird does not currently offer email addresses. Please see <a href=""https://support.mozilla.org/kb/thunderbird-faq#w_what-is-my-thunderbird-email-address"" rel=""nofollow"">https://support.mozilla.org/kb/thunderbird-faq#w_what-is-my-thunderbird-email-address</a> </p>",wsmwk,false,0,0

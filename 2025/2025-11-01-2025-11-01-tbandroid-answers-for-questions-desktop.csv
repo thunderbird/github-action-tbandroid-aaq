@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1776248,1544296,2025-10-31 21:03:38 -0700,2025-10-31 21:03:38 -0700,"<p>Manage identities seems the feature your looking for. </p><p>Settings &gt; account &gt; sending mail &gt; manage identities. </p><p>The description reads ""setup alternate from addresses and signatures"" </p><p>Once added, identities are selected by clicking the from address during message composition. </p>",platform34,false,1,0

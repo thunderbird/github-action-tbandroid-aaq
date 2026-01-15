@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1730683,1510249,2025-05-07 06:01:15 -0700,2025-05-07 06:01:15 -0700,"<p>As far as I know, Thunderbird for Android does not have add-ons. </p>",Yu5tiqX9og,false,0,0
+1730680,1510274,2025-05-07 05:52:02 -0700,2025-05-07 05:52:02 -0700,"<p>Thunderbird for Android can use the contacts of your Android phone. </p><p>The following link might be helpful: <a href=""https://support.mozilla.org/en-US/questions/1484999#answer-1702948"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1484999#answer-1702948</a> </p>",Yu5tiqX9og,false,0,1

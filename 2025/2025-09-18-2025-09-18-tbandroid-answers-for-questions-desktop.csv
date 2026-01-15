@@ -1,0 +1,7 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1765336,1536449,2025-09-18 05:33:50 -0700,2025-09-18 05:33:50 -0700,"<p>Hi, </p><p>Not globally, but you can set this for each mailbox: <em>Account settings</em> -&gt; <em>Reading mail</em> -&gt; <em>Always show images</em>. </p><p>Regards, Balázs </p>",meskobalazs,false,3,0
+1765340,1536449,2025-09-18 05:46:38 -0700,2025-09-18 05:46:38 -0700,<p>Where will I find this setting? I do t see it. </p>,mikenugent3,false,0,0
+1765385,1536449,2025-09-18 08:23:48 -0700,2025-09-18 08:24:10 -0700,"<p>Hi, </p><p>You'll want to click the three horizontal lines at the top left corner of the app, then the gear at the bottom left corner.  </p><p>Then, select your account (xxx@xxx.xxx) under ""Accounts"". Select ""Reading Mail"", then ""Always Show Images"". You should be able to choose to show images from contacts or from anyone.  </p><p>Hope this helps! A </p>",abri,false,1,0
+1765448,1536563,2025-09-18 14:04:17 -0700,2025-09-18 14:04:17 -0700,"<p>Hi, </p><p>What do you mean by personal folders? Are these normal IMAP folders on your accounts? Could you describe them? </p><p>Regards, Balázs </p>",meskobalazs,false,0,0
+1765510,1536563,2025-09-18 19:30:58 -0700,2025-09-18 19:30:58 -0700,<p>Or local folders? </p>,mozilla98,false,0,0
+1767165,1536563,2025-09-24 18:40:23 -0700,2025-09-24 18:40:23 -0700,<p>Sy&nbsp;?? </p>,wsmwk,false,0,0

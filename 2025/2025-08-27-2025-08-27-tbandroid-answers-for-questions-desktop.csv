@@ -1,0 +1,5 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1762195,1531972,2025-09-05 11:31:39 -0700,2025-09-07 04:57:26 -0700,<p>..... </p>,Kristian3,false,0,0
+1762568,1531972,2025-09-07 04:51:50 -0700,2025-09-07 04:53:33 -0700,<p>..... </p>,Kristian3,false,0,0
+1760151,1532014,2025-08-27 23:03:46 -0700,2025-08-27 23:03:46 -0700,"<p>Hi, Are you on the same version like the person reported a similar problem?  <a href=""https://support.mozilla.org/en-US/questions/1530717"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1530717</a> </p>",shopov.bogomil,false,0,0
+1760433,1532014,2025-08-29 02:37:27 -0700,2025-08-29 02:37:27 -0700,"<p>Please see this bug: <a href=""https://github.com/thunderbird/thunderbird-android/issues/9682"" rel=""nofollow"">https://github.com/thunderbird/thunderbird-android/issues/9682</a> </p>",shopov.bogomil,false,0,0

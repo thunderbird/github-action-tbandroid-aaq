@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1714334,1494185,2025-02-24 18:21:02 -0800,2025-02-24 18:21:02 -0800,<p>Issue is believed to be resolved.  Suspect problem was being caused by some conflict between Thunderbird and Bitdefender.  Uninstalled Bitdefender and have not had any instances of IMAP Push not updating. </p>,jvargo35,false,0,2

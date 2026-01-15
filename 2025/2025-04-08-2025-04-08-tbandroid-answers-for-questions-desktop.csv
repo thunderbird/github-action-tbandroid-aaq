@@ -1,0 +1,4 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1725907,1504562,2025-04-15 10:23:31 -0700,2025-04-15 10:23:31 -0700,"<p>oauth2 is supported.   </p><p>What errors are you seeing?  Perhaps <a href=""https://github.com/thunderbird/thunderbird-android/issues/8598&nbsp;?"" rel=""nofollow"">https://github.com/thunderbird/thunderbird-android/issues/8598&nbsp;?</a> </p>",wsmwk,false,1,0
+1726097,1504562,2025-04-16 07:00:17 -0700,2025-04-16 07:01:59 -0700,"<p>In my Thunderbird for Android, I can use Gmail IMAP and the Authentication method is OAuth 2.0. </p>",Yu5tiqX9og,false,0,0
+1724163,1504592,2025-04-08 01:00:15 -0700,2025-04-08 01:00:15 -0700,<p>Forget it. Found it. 😊 </p>,jclaesson,false,0,0

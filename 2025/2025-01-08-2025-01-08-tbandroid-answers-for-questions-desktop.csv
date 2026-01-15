@@ -1,0 +1,4 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1701502,1484368,2025-01-09 00:03:41 -0800,2025-01-09 00:03:41 -0800,"<p>It would mean, I think (I've never used TB on Android), that you use your QR scanner on your mobile to scan the QR code that TB has produced. </p>",frisée,false,0,0
+1701781,1484368,2025-01-09 07:32:12 -0800,2025-01-09 07:32:12 -0800,"<p>Thank you, Frisee.  It turns out that, since I'm just learning about mobile technology, I was wrong about how to scan a QR code; I thought I had to take a picture of it. </p>",DorothyJ,false,0,0
+1701782,1484368,2025-01-09 07:35:00 -0800,2025-01-09 07:35:00 -0800,"<p>There are Apps that you can get from the store, completely free. </p>",frisée,false,1,0

@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1735112,1513060,2025-05-21 09:14:52 -0700,2025-05-21 09:14:52 -0700,<p>sorry this is for thunderbird on Android </p>,linux4u,false,0,0
+1735141,1513074,2025-05-21 11:02:55 -0700,2025-05-21 11:02:55 -0700,"<p>See <a href=""https://support.mozilla.org/en-US/kb/configure-push-email-thunderbird-android"" rel=""nofollow"">https://support.mozilla.org/en-US/kb/configure-push-email-thunderbird-android</a> </p>",sfhowes,false,0,0

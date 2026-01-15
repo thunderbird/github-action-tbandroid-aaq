@@ -1,0 +1,4 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1711051,1491987,2025-02-09 18:14:04 -0800,2025-02-09 18:14:04 -0800,"<p>Settings &gt; select the account you want to configure &gt; Sending mail &gt; untick ""Upload sent messages (Upload sent messages to Sent folder after sending)"". </p>",Yu5tiqX9og,false,1,0
+1711152,1491987,2025-02-10 09:48:43 -0800,2025-02-10 09:48:43 -0800,<p>Magic! Thank you. </p>,pgpaulgoddard,false,0,0
+1711466,1491997,2025-02-11 20:22:40 -0800,2025-02-11 20:22:40 -0800,"<p>TfA does not currently do spam filtering.  Please submit ideas at <a href=""https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android"" rel=""nofollow"">https://connect.mozilla.org/t5/ideas/idb-p/ideas/label-name/thunderbird%20android</a> </p>",wsmwk,false,0,1
