@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1799987,1565527,2026-02-13 21:48:10 -0800,2026-02-14 01:59:49 -0800,"<p>Can you create an issue ticket on github for this question please. <a href=""https://github.com/thunderbird/thunderbird-android/issues"" rel=""nofollow"">https://github.com/thunderbird/thunderbird-android/issues</a> </p>",platform34,false,0,0
