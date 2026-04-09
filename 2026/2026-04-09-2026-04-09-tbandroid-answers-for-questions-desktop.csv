@@ -1,0 +1,2 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1810892,1575473,2026-04-09 06:20:20 -0700,2026-04-09 06:20:20 -0700,<p>Solution was to grant the permition to access contact data in the app settings. </p>,dirk68,false,0,0
