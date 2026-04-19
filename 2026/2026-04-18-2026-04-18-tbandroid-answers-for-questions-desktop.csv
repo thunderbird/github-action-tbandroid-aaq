@@ -1,4 +1,4 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1812437,1577039,2026-04-18 19:23:22 -0700,2026-04-18 19:25:11 -0700,<p>Have you double checked 'Unify' is still enabled on each folder who's content should display within unified inbox? </p> <ol><li> Open the sidebar with account folders displayed. </li><li> Tap manage folders (bottom of list). </li><li> Tap folder name (eg. Inbox). </li><li> Check 'Unify' is toggled on. </li></ol>,platform34,false,0,0
 1812442,1577039,2026-04-18 20:21:11 -0700,2026-04-18 20:21:11 -0700,<p>Thank you for answering. </p><p>'Unify' is toggled on for the Inbox folder in all the email accounts. Everything in the Manage Folders section is toggled on except 'Enable Push'. </p>,robert.d.tallent,false,0,0
-1812446,1577039,2026-04-18 20:32:35 -0700,2026-04-18 23:26:12 -0700,<p>Deleted </p>,robert.d.tallent,false,0,0
+1812446,1577039,2026-04-18 20:32:35 -0700,2026-04-19 15:50:37 -0700,"<p>I solved the problem by removing all email accounts, uninstalling Thunderbird, and reinstalling it. </p>",robert.d.tallent,false,0,0
