@@ -1,0 +1,3 @@
+id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
+1820687,1583249,2026-05-24 10:39:09 -0700,2026-05-24 10:39:09 -0700,<p>Just checked and the problem seems to occur when I want to reply or forward a message. The attachment and more options button are also missing. </p>,sleek-unkempt-slaw,false,0,0
+1820764,1583249,2026-05-24 15:53:58 -0700,2026-05-24 15:53:58 -0700,"<p>Duplicate of <a href=""https://support.mozilla.org/en-US/questions/1583506"" rel=""nofollow"">https://support.mozilla.org/en-US/questions/1583506</a> </p>",platform34,false,0,0
