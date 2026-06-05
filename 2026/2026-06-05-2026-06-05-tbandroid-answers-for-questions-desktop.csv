@@ -2,3 +2,5 @@ id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1823248,1585607,2026-06-04 18:58:10 -0700,2026-06-04 18:58:10 -0700,<p>App passwords are created using your email providers webmail or account settings. Exact steps vary between providers. </p>,platform34,false,0,0
 1823301,1585607,2026-06-05 04:03:26 -0700,2026-06-05 04:03:26 -0700,"<p>Ok, but i was expecting the android app to provide a master password just like the PC version does!? </p>",t.hill3,false,0,0
 1823309,1585622,2026-06-05 06:28:37 -0700,2026-06-05 06:28:37 -0700,<p>I found the answer myself. I need to sort the emails by importance. </p>,golovin.axel,false,0,0
+1823421,1585622,2026-06-05 17:31:01 -0700,2026-06-05 17:31:01 -0700,"<p>Glad you managed to resolve the issue, I assume by sorting by starred emails first. </p>",platform34,false,0,0
+1823420,1585727,2026-06-05 17:28:12 -0700,2026-06-05 17:28:12 -0700,<p>Hi Stixman </p><p>Thunderbird for Android can only download emails that are available on the server. Emails stored only within local folders on TB desktop (no copy on the server) cannot be viewed in the mobile app. </p>,platform34,false,0,0
