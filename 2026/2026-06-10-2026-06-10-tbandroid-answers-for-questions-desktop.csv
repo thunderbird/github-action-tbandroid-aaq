@@ -1,2 +1,3 @@
 id,question_id,created,updated,content,creator,is_spam,num_helpful,num_unhelpful
 1824361,1586580,2026-06-10 09:43:30 -0700,2026-06-10 09:43:30 -0700,"<p>Ok, I worked it out. You need to re-start Thunderbird app to get the 'Unified Account' displayed above your email accounts. </p>",john405,false,0,0
+1824550,1586655,2026-06-11 00:02:57 -0700,2026-06-11 00:02:57 -0700,<p>Do you have a missing or expired root certificate in Androids certificate store. These are used to verify the chain of trust &amp; validity of the certificate your email provider is issuing. </p><p>Who is your email provider? Who issued their certificate? What version of Android are you using? </p>,platform34,false,0,0
